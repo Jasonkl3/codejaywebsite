@@ -97,7 +97,7 @@ export default function Blind75List() {
               </svg>
             </th>
             <th scope="col" className="px-6 py-3">
-              Question {"(4/75)"}
+              Question
             </th>
             <th scope="col" className="px-6 py-3">
               Topic
