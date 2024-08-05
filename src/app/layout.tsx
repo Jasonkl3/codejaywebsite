@@ -6,7 +6,7 @@ import GoogleAnalytics from "./GoogleAnalytics";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "CodeJay Roadmap",
+  title: "DaCodeJay Roadmap",
   description: "DSA Interview Questions Roadmap",
 };
 

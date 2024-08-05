@@ -22,7 +22,7 @@ const GoogleAnalytics = () => {
           `}
       </Script> */}
       {/* <!-- Google tag (gtag.js) --> */}
-        <Script async src="https://www.googletagmanager.com/gtag/js?id=G-5J119TH9NV"></Script>
+        <Script strategy='lazyOnload' async src="https://www.googletagmanager.com/gtag/js?id=G-5J119TH9NV"></Script>
         <Script id='' strategy='lazyOnload'>
             {`
                 window.dataLayer = window.dataLayer || [];
